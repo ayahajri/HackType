@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hacktype.netlify.app/sitemap.xml
